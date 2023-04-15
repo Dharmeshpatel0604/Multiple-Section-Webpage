@@ -1,0 +1,65 @@
+header {
+    font-size: 20px;
+    text-align: center;
+    color: lightgreen;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.nav {
+    background-color: red;
+    font: 15px black;
+    padding: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: yellowgreen;
+    border-radius: 10px 5px 10px 5px;
+}
+
+.div1 {
+    width: 25%;
+    float: left;
+    outline-color: black;
+    text-align: center;
+}
+
+.div2 {
+    width: 45%;
+    float: left;
+    text-align: center;
+
+}
+
+.div3 {
+    width: 29%;
+    float: left;
+    text-align: center;
+}
+
+.div4 {
+    clear: both;
+    padding: 15px;
+    height: 200px;
+    width: 23%;
+    line-height: 25px;
+    background-color: yellowgreen;
+    color: azure;
+    text-align: justify;
+    float: left;
+}
+
+.div5 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    clear: both;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
